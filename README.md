@@ -91,7 +91,7 @@ You can test it by simply running:
 Test it out with curl, note that you need user/pass combination setup in HAProxy userlist in haproxy configuration (in above example: /etc/haproxy/haproxy.cfg, userlist controller):
 
 ```
-curl -u <user>:<pass> -H "Content-Type: application/json" "http://127.0.0.1:5555/v1/"
+curl -u <user>:<pass> -H "Content-Type: application/json" "http://127.0.0.1:5555/v2/"
 ```
 
 If you are using secure passwords, supported algorithms are: md5, sha-256 and sha-512.
