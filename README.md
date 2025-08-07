@@ -1,4 +1,5 @@
 # ![HAProxy](assets/images/haproxy-weblogo-210x49.png "HAProxy")
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Foktalz%2Fdataplaneapi.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Foktalz%2Fdataplaneapi?ref=badge_shield)
 
 ## HAProxy Data Plane API
 
@@ -146,3 +147,7 @@ Check the documentation in the [README](./runtime/README.md).
 ## Contributing
 
 If you wish to contribute to this project please check [Contributing Guide](CONTRIBUTING.md)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Foktalz%2Fdataplaneapi.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Foktalz%2Fdataplaneapi?ref=badge_large)
